@@ -1,0 +1,4 @@
+
+#Ignorando o aarquivo .DS_Store do MacOS
+.DS_Store 
+
