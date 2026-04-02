@@ -1,0 +1,18 @@
+
+header {
+    background-color: yellow;
+    color: #1a1b1c 
+}
+
+main section {
+    background-color: aqua;
+}
+main section h2 {
+    color: rgb(10, 141, 10);
+}
+main section h3 {
+    color: blue;
+}
+footer p {
+    color: rgb(182, 48, 48);
+}
